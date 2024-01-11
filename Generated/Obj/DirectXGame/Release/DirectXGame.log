@@ -1,0 +1,22 @@
+﻿  BaseCharactor.cpp
+  ClearScene.cpp
+  Enemy.cpp
+  FollowCamera.cpp
+  GameoverScene.cpp
+  GlobalVariables.cpp
+  Ground.cpp
+  LockOn.cpp
+  main.cpp
+  MyMath.cpp
+  Player.cpp
+  PlayerBullet.cpp
+  GameScene.cpp
+  Skydome.cpp
+  TitleScene.cpp
+  TransitionEffect.cpp
+  WorldTransformEx.cpp
+  コード生成しています。
+  Compiler switch has changed, fall back to full compilation.
+  All 3046 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  DirectXGame.vcxproj -> C:\Users\sakamoto\source\repos\KamataEngine20230413 - コピー - コピー\Generated\Outputs\Release\DirectXGame.exe
